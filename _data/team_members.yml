@@ -8,7 +8,7 @@
   education3: B.A.Sc., Electrical Engineering, University of Toronto
   
 - name: Eric Zhu
-  photo: Eric.jpg
+  photo: eric.jpeg
   info: Postdoc (Qian Group+ Levi Group)
   email: eric.zhu@mail.utoronto.ca
   number_educ: 3
@@ -26,7 +26,7 @@
   education2: B.Sc., Physics, Sharif University of Technology, Iran
 
 - name: Arash Riazi
-  photo: Arash.png
+  photo: arash.jpeg
   info: Ph.D. candidate (2015-), ECE
   email: arash.riazi@mail.utoronto.ca
   number_educ: 2
@@ -34,7 +34,7 @@
   education2: B.Sc., Electrical, Electronics and Communication Engineering, Amirkabir University of Technology- Tehran Polytechnic, Iran
 
 - name: Xiaoqing (Doris) Zhong
-  photo: Xiaoqing.jpg
+  photo: xiaoqing.jpg
   info: Ph.D. candidate (2015-), Physics (co-supervised by Prof. Hoi Kwong Lo)
   email: xiaoqing.zhong@mail.utoronto.ca
   number_educ: 1
@@ -55,21 +55,21 @@
   education1: M.Sc. Mathematics + B.E. Electronics and Instrumentation Engineering, BITS Pilani, Pilani- India
 
 - name: Michael Tisi
-  photo: Michael.JPG
+  photo: Michael.jpg
   info: M.A.Sc. candidate (2018-), ECE (co-supervised by Prof. Hoi Kwong Lo)
   email: michael.tisi@mail.utoronto.ca
   number_educ: 1
   education1: B.Sc., Medical Biophysics, University of Toronto
   
 - name: Amita Gnanapandithan
-  photo: Amita.JPG
+  photo: Amita.jpeg
   info: Ph.D. candidate (2019-), ECE (co-supervised by Prof. Hoi Kwong Lo)
   email: amita.gnanapandithan@mail.utoronto.ca
   number_educ: 1
   education1: B.A.Sc., Engineering Physics, University of Toronto
 
 - name: Reem Mandil
-  photo: Reem.jpg
+  photo: Reem.jpeg
   info: Ph.D. candidate (2019-), Physics (co-supervised by Prof. Hoi Kwong Lo)
   email: reem.mandil@mail.utoronto.ca
   number_educ: 2
@@ -77,7 +77,7 @@
   education2: B.Sc., Physics, McGill
 
 - name: Calvin Xu
-  photo: Calvin.JPG
+  photo: Calvin.jpg
   info: M.A.Sc. candidate (2019-), ECE
   email: calvinhy.xu@mail.utoronto.ca
   number_educ: 1
