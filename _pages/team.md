@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Qian Group - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Qian: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [Staff](#staff), [Bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
