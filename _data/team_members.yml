@@ -7,84 +7,64 @@
   education2: M.A.Sc., Electrical Engineering, University of Toronto
   education3: B.A.Sc., Electrical Engineering, University of Toronto
   
-- name: Jianfeng (Jacky) Ge
+- name: Eric Zhu
   photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
+  info: Postdoc (Qian Group+ Levi Group)
+  email: eric.zhu@mail.utoronto.ca
   number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  education1: Postdoc with Alan Migdall, Lu Deng, and E.W. Hagley at <a href="https://www.nist.gov/">NIST</a>
+  education2: Ph.D., Electrical and Computer Engineering, University of Toronto (Supervisor - Prof. Li Qian)
+  education2: M.A.Sc., Electrical Engineering, University of Toronto
+  education3: B.A.Sc., Engineering Physics, University of Toronto
 
-- name: Koen M Bastiaans
+- name: Olinka Bedroya
   photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
+  info: Ph.D. candidate, Physics (co-supervised by Prof. Hoi Kwong Lo)
+  email: o.bedroya@mail.utoronto.ca
   number_educ: 2
-  education1: PhD with Milan Allan, Leiden University
-  education2: Master Leiden University with Milan Allan
+  education1: M.Sc., Physics, University of Toronto
+  education2: B.Sc., Physics, Sharif University of Technology, Iran
 
-- name: Jiasen Niu
+- name: Arash Riazi
   photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
+  info: Ph.D. candidate, ECE
+  email: arash.riazi@mail.utoronto.ca
   number_educ: 2
-  education1: Ph.D. with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: M.Sc., Electrical and Electronics Engineering, Sharif University of Technology, Iran
+  education2: B.Sc., Electrical, Electronics and Communication Engineering, Amirkabir University of Technology- Tehran Polytechnic, Iran
 
-- name: Damianos Chatzopoulos
+- name: Xiaoqing (Doris) Zhong
   photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+  info: Ph.D. candidate, Physics (co-supervised by Prof. Hoi Kwong Lo)
+  email: xiaoqing.zhong@mail.utoronto.ca
+  number_educ: 1
+  education1: B.Sc., Physics, Nanjing University, China
 
-- name: Willem Tromp
+- name: Changjia Chen
   photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
+  info: Ph.D. candidate, ECE
+  email: changjia.chen@mail.utoronto.ca
   number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
+  education1: B.S., Physics, University of Science and Technology of China
 
-- name: Tjerk Benschop
+- name: Neel Choksi
   photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
+  info: Ph.D. candidate, ECE
+  email: neel.choksi@mail.utoronto.ca
   number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
+  education1: M.Sc. Mathematics + B.E. Electronics and Instrumentation Engineering, BITS Pilani, Pilani- India
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+- name: Amita Gnanapandithan
+  photo: DSC_1032.JPG
+  info: Ph.D. candidate, ECE (co-supervised by Prof. Hoi Kwong Lo)
+  email: amita.gnanapandithan@mail.utoronto.ca
+  number_educ: 1
+  education1: B.A.Sc., Engineering Physics, University of Toronto
+
+- name: Reem Mandil
+  photo: hugo.jpg
+  info: Ph.D. candidate, Physics (co-supervised by Prof. Hoi Kwong Lo)
+  email: reem.mandil@mail.utoronto.ca
+  number_educ: 2
+  education1: M.Sc., Physics, University of Toronto
+  education2: B.Sc., Physics, McGill
