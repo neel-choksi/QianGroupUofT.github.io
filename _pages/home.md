@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group in the [ECE department at the University of Toronto](https://www.ece.utoronto.ca/). We conduct experimental research in the field of ultrafast photonics, metrology, quantum communication, and optical sensing.
+We are a research group in the photonics group in the [ECE department at the University of Toronto](https://www.ece.utoronto.ca/). We conduct experimental research in the field of ultrafast photonics, metrology, quantum communication, and optical sensing.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -30,13 +30,13 @@ We are a dynamic research group in the [ECE department at the University of Toro
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Twinfieldqkd.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nonlinearinterferometer.jpeg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic.jpeg" alt="Slide 4" />
-        </div>
-        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Twinfieldqkd2.jpeg" alt="Slide 5" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic.jpg" alt="Slide 4" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic2.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
