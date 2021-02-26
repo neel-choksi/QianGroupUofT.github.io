@@ -80,7 +80,7 @@ Jump to [Postdoc](#postdoc), [Graduate students](#graduate), [Undergraduate stud
 
 ## Postdoc
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.postdoc %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
