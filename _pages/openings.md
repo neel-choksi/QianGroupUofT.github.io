@@ -11,14 +11,6 @@ We are always looking for new group members with passion, curiosity, and grit!
 
 You will have the chance to work on the challenges in the field of quantum optics, metrology, ultrafast photonics, and optical sensing. You will be involved in determining the important and interesting questions, creating and improving experimental setups, performing measurements, and performing groundbreaking research.
 
-### Current open positions
-
-You find the current job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).>
-
-<!It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf).>
-
 ### Postdocs
 We are currently not looking for any postdocs. Please keep an eye for announcements here and on Twitter. 
 
