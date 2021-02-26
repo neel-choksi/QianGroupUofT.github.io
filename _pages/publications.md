@@ -1,7 +1,7 @@
 ---
 title: "Qian Group - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Qian Group-- Publications."
 sitemap: false
 permalink: /publications/
 ---
