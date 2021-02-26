@@ -2,64 +2,64 @@
   photo: Olinka.jpg
   info: Ph.D. candidate (2014-), Physics (co-supervised by Prof. Hoi Kwong Lo)
   email: o.bedroya@mail.utoronto.ca
-  number_educ: 2
-  education1: M.Sc., Physics, University of Toronto
-  education2: B.Sc., Physics, Sharif University of Technology, Iran
+  #number_educ: 2
+  #education1: M.Sc., Physics, University of Toronto
+  #education2: B.Sc., Physics, Sharif University of Technology, Iran
 
 - name: Arash Riazi
   photo: arash.jpeg
   info: Ph.D. candidate (2015-), ECE
   email: arash.riazi@mail.utoronto.ca
-  number_educ: 2
-  education1: M.Sc., Electrical and Electronics Engineering, Sharif University of Technology, Iran
-  education2: B.Sc., Electrical, Electronics and Communication Engineering, Amirkabir University of Technology- Tehran Polytechnic, Iran
+  #number_educ: 2
+  #education1: M.Sc., Electrical and Electronics Engineering, Sharif University of Technology, Iran
+  #education2: B.Sc., Electrical, Electronics and Communication Engineering, Amirkabir University of Technology- Tehran Polytechnic, Iran
 
 - name: Xiaoqing (Doris) Zhong
   photo: xiaoqing.jpg
   info: Ph.D. candidate (2015-), Physics (co-supervised by Prof. Hoi Kwong Lo)
   email: xiaoqing.zhong@mail.utoronto.ca
-  number_educ: 1
-  education1: B.Sc., Physics, Nanjing University, China
+  #number_educ: 1
+  #education1: B.Sc., Physics, Nanjing University, China
 
 - name: Changjia Chen
   photo: Changjia.jpg
   info: Ph.D. candidate (2016-), ECE
   email: changjia.chen@mail.utoronto.ca
-  number_educ: 1
-  education1: B.S., Physics, University of Science and Technology of China
+  #number_educ: 1
+  #education1: B.S., Physics, University of Science and Technology of China
 
 - name: Neel Choksi
   photo: Neel.jpg
   info: Ph.D. candidate (2018-), ECE
   email: neel.choksi@mail.utoronto.ca
-  number_educ: 1
-  education1: M.Sc. Mathematics + B.E. Electronics and Instrumentation Engineering, BITS Pilani, Pilani- India
+  #number_educ: 1
+  #education1: M.Sc. Mathematics + B.E. Electronics and Instrumentation Engineering, BITS Pilani, Pilani- India
 
 - name: Michael Tisi
   photo: Michael.jpg
   info: M.A.Sc. candidate (2018-), ECE (co-supervised by Prof. Hoi Kwong Lo)
   email: michael.tisi@mail.utoronto.ca
-  number_educ: 1
-  education1: B.Sc., Medical Biophysics, University of Toronto
+  #number_educ: 1
+  #education1: B.Sc., Medical Biophysics, University of Toronto
   
 - name: Amita Gnanapandithan
   photo: Amita.jpeg
   info: Ph.D. candidate (2019-), ECE (co-supervised by Prof. Hoi Kwong Lo)
   email: amita.gnanapandithan@mail.utoronto.ca
-  number_educ: 1
-  education1: B.A.Sc., Engineering Physics, University of Toronto
+  #number_educ: 1
+  #education1: B.A.Sc., Engineering Physics, University of Toronto
 
 - name: Reem Mandil
   photo: Reem.jpeg
   info: Ph.D. candidate (2019-), Physics (co-supervised by Prof. Hoi Kwong Lo)
   email: reem.mandil@mail.utoronto.ca
-  number_educ: 2
-  education1: M.Sc., Physics, University of Toronto
-  education2: B.Sc., Physics, McGill
+  #number_educ: 2
+  #education1: M.Sc., Physics, University of Toronto
+  #education2: B.Sc., Physics, McGill
 
 - name: Calvin Xu
   photo: Calvin.jpg
   info: M.A.Sc. candidate (2019-), ECE
   email: calvinhy.xu@mail.utoronto.ca
-  number_educ: 1
-  education1: B.A.Sc., Engineering Physics, University of British Columbia
+  #number_educ: 1
+  #education1: B.A.Sc., Engineering Physics, University of British Columbia
