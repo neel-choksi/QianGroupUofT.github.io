@@ -15,7 +15,7 @@ Jump to [Postdoc](#postdoc), [Graduate students](#graduate), [Undergraduate stud
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.pi %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
