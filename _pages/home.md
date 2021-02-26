@@ -5,8 +5,7 @@ excerpt: "Qian Group at the University of Toronto"
 sitemap: false
 permalink: /
 ---
-
-We are a research group in the photonics group in the [ECE department at the University of Toronto](https://www.ece.utoronto.ca/). We conduct experimental research in the field of ultrafast photonics, metrology, quantum communication, and optical sensing.
+Our group conducts experimental research in the field of ultrafast photonics, metrology, quantum communication, and optical sensing. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
