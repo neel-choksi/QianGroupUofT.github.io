@@ -19,7 +19,11 @@ The entanglement between the photon-pairs in our sources is present in both the 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/img2.png){: style="width: 600px; margin: 0px  150px"}
 
-#### Quantum communication
+### Quantum Communication
 Quantum communication uses the nature of quantum mechanics to explore the information processing tasks. The main goal of our study is to find tasks where quantum communication shows significant advantages over its classical counterpart. Among different quantum communication protocols, quantum key distribution (QKD) is a representative example, which enables remote users to share encryption keys with information-theoretic security. Compared with classical public key encryption system, the security of which depends on the computation difficulty of certain mathematic functions, the encryption system with QKD has provable security that relies on the foundation of quantum mechanics. 
+
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/img3.jpeg){: style="width: 500px; margin: 0px  200px"}
+
 In our group, we are working on building different QKD systems, aiming at making QKD more practical and feasible for real world applications. Different QKD protocols are involved in our research, such as measurement device independent QKD which removes all the detector side channel attacks, and twin field QKD which can practically beat the fundamental key rate limit for the conventional point-to-point QKD protocols. Besides the study of QKD, we are also working on some other quantum communication system, such as quantum communication complexity (QCC), which explores the minimum amount of communication required to solve a problem. It turns out that, by using quantum superposition or entanglement, many quantum protocols of communication complexity are more efficient, that is, they require less communication than the classical communication protocols. Our work is to experimentally prove the quantum superiority of these protocols over their classical counterparts.
+
+### Optical Sensing
