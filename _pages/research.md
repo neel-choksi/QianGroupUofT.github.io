@@ -14,7 +14,10 @@ Our group conducts groundbreaking research to advance the fields of quantum comm
 
 Entanglement, the phenomenon where characteristics of a particle are correlated with characteristics of other particles regardless of their physical separation, is the foundation of many quantum information technologies. In our lab, we are building practical, room-temperature entangled photon sources for future quantum communication networks. Based off type-II spontaneous parametric down-conversion in periodically poled silica fiber, the entangled photons in our sources are generated completely in optical fiber, allowing for low loss integration with existing telecommunication networks. We have produced separate broadband sources centered at the minimum attenuation wavelength of optical fibers, 1550nm, as well as the zero-dispersion wavelength, 1300nm.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/img1.png){: style="width: 500px; float: centre; margin: 10px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/img1.png){: style="width: 500px; float: right; margin: 10px  10px"}
+
+The entanglement between the photon-pairs in our sources is present in both the polarization and the frequency degrees of freedom. By cascading two or more sources with a tunable linear medium in between, we have generated photon-pairs whose entanglement properties can be tailored in both the polarization and the frequency domains.
+![]({{ site.url }}{{ site.baseurl }}/images/respic/img2.png){: style="width: 500px; float: right; margin: 10px  10px"}
 
 **Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
 
