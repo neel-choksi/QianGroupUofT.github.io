@@ -16,9 +16,10 @@ Entanglement, the phenomenon where characteristics of a particle are correlated 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/img1.png){: style="width: 500px; float: left; margin: 0px  150px"}
 
+
 The entanglement between the photon-pairs in our sources is present in both the polarization and the frequency degrees of freedom. By cascading two or more sources with a tunable linear medium in between, we have generated photon-pairs whose entanglement properties can be tailored in both the polarization and the frequency domains.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/img2.png){: style="width: 500px; float: left; margin: 0px  150px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/img2.png){: style="width: 600px; float: left; margin: 0px  150px"}
 
 **Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
 
