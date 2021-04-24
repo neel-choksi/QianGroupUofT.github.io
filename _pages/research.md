@@ -16,7 +16,7 @@ Entanglement, the phenomenon where characteristics of a particle are correlated 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/img1.png){: style="width: 500px; float: left; display:block; margin: 10px  150px"}
 
-<br>
+\a
 The entanglement between the photon-pairs in our sources is present in both the polarization and the frequency degrees of freedom. By cascading two or more sources with a tunable linear medium in between, we have generated photon-pairs whose entanglement properties can be tailored in both the polarization and the frequency domains.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/img2.png){: style="width: 600px; float: left; margin: 10px  150px"}
