@@ -15,7 +15,7 @@ We have demonstrated an approach to realize a tunable sub-MHz spectral dip in a 
 polarization pulling in a medium with frequency-dependent polarization eigenmodes. As a specific realization, we used Brillouin gain in spun birefringent fibers. The linewidth of this dip is equivalent to a Q-factor of 300 million, and with optimal fiber parameters, we can achieve a Q-factor of 2 billion. To the best of our knowledge, this is the narrowest Brillouin feature ever reported. Currently, we are using this ultra-narrow feature for applications such as high precision
 metrology, slow light generation, and microwave photonics.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/img3.png){: style="width: 500px; margin: 0px  200px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/img0.png){: style="width: 500px; margin: 0px  200px"}
 
 ### Quantum Entanglement
 
