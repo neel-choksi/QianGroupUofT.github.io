@@ -23,22 +23,22 @@ Our group conducts experimental research in the field of ultrafast photonics, me
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/entangledphotonsource.jpg" {: style="width: 500px; margin: 0px  200px"}alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/entangledphotonsource.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Twinfieldqkd.jpeg" {: style="width: 500px; margin: 0px  200px"}alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Twinfieldqkd.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Twinfieldqkd2.jpeg" {: style="width: 500px; margin: 0px  200px"}alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Twinfieldqkd2.jpeg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiQian.jpeg" {: style="width: 500px; margin: 0px  200px"}alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiQian.jpeg" alt="Slide 4" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic.jpg" {: style="width: 500px; margin: 0px  200px"}alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic.jpg" alt="Slide 4" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic2.jpg" {: style="width: 500px; margin: 0px  200px"}alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grouppic2.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
