@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 # Research
-Our group conducts groundbreaking research to advance the fields of high precision sensing, quantum entanglement, and quantum communication. We have lab members with diverse backgrounds and interests, working together on different physics and engineering problems. 
+Our group conducts groundbreaking research to advance the fields of high precision metrology, quantum entanglement, and quantum communication. We have lab members with diverse backgrounds and interests, working together on different physics and engineering problems. 
 
 ### High Precision Metrology
 
