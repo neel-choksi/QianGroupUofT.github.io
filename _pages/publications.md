@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ca/citations?hl=en&user=sLHyO1wAAAAJ&view_op=list_works&sortby=pubdate).
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ca/citations?hl=en&user=sLHyO1wAAAAJ&view_op=list_works&sortby=pubdate).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -56,7 +56,7 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 
 {% for publi in site.data.publist %}
 
-  {{Resonator-free tunable sub-MHz spectral dip in the Brillouin gain using spun birefringent fibers }} <br />
-  <em>{{Neel Choksi, Yi Liu, Rojina Ghasemi, Li Qian}} </em><br /><a href="{{https://arxiv.org/abs/2104.05101 }}">{{ arXiv preprint arXiv:2104.05101}}</a>
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
