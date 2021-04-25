@@ -14,7 +14,7 @@ permalink: /publications/
 For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ca/citations?hl=en&user=sLHyO1wAAAAJ&view_op=list_works&sortby=pubdate).
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data.publist2021 %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -51,18 +51,14 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 
 <p> &nbsp; </p>
 
-{% if publi.highlight == 2 %}
 ### 2021
-{% for publi in site.data.publist %}
+{% for publi in site.data.publist2021 %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endfor %}
-{% endif %}
 
-{% if publi.highlight == 3 %}
 ### 2020
-{% for publi in site.data.publist %}
+{% for publi in site.data.publist2020 %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endfor %}
-{% endif %}
