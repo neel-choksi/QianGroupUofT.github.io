@@ -14,3 +14,31 @@
     url: https://arxiv.org/abs/2104.05101
     display:  arXiv preprint arXiv:2104.05101
   highlight: 2
+
+- title: "Resonator-free tunable sub-MHz spectral dip in the Brillouin gain using spun birefringent fibers"
+  authors: Neel Choksi, Yi Liu, Rojina Ghasemi, Li Qian
+  link:
+    url: https://arxiv.org/abs/2104.05101
+    display:  arXiv preprint arXiv:2104.05101
+  highlight: 2
+
+  - title: "Broadband fiber-based entangled photon-pair source at telecom O-band"
+  authors: Changjia Chen, Calvin Xu, Arash Riazi, Eric Y Zhu, Alexey V Gladyshev, Peter G Kazansky, Li Qian
+  link:
+    url: https://www.osapublishing.org/abstract.cfm?uri=ol-46-6-1261
+    display:  Optics Letters 46 (6), 1261-1264
+  highlight: 2
+
+  - title: "Ultrasound detection aided by bound states in the continuum"
+  authors: Eric Y Zhu, Li Qian, Ofer Levi
+  link:
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11642/1164221/Ultrasound-detection-aided-by-bound-states-in-the-continuum/10.1117/12.2579094.short
+    display: "Photons Plus Ultrasound: Imaging and Sensing 2021 11642, 1164221"
+  highlight: 2
+
+ - title: "Proof-of-principle experimental demonstration of twin-field quantum key distribution over optical channels with asymmetric losses"
+  authors: Xiaoqing Zhong, Wenyuan Wang, Li Qian, Hoi-Kwong Lo
+  link:
+    url: https://www.nature.com/articles/s41534-020-00343-5
+    display: npj Quantum Information 7 (1), 1-6 1 2021
+  highlight: 2
