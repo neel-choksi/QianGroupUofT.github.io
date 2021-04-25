@@ -62,3 +62,9 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endfor %}
+
+### 2019
+{% for publi in site.data.publist2019 %}
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endfor %}
