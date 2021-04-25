@@ -52,11 +52,16 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 <p> &nbsp; </p>
 
 
-## Full List
-
 {% for publi in site.data.publist %}
-
+{% if publi.highlight == 2 %}
+### 2021
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% if publi.highlight == 3 %}
 
+### 2020
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% endif %}
 {% endfor %}
+
