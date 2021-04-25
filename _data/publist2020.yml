@@ -4,3 +4,101 @@
     url: https://www.osapublishing.org/abstract.cfm?uri=col-18-10-101203
     display: Chinese Optics Letters 18 (10), 101203
   highlight: 2
+
+- title: "Tagging idea in continuous variable quantum key distribution and its application"
+  authors: Chenyang Li, Thomas Van Himbeeck, Li Qian, Hoi-Kwong Lo
+  link:
+    url: https://arxiv.org/abs/2010.03442
+    display: arXiv preprint arXiv:2010.03442
+  highlight: 2
+
+- title: "Identifying Optimal Photonic Crystal Sensor Designs with Machine Learning"
+  authors: Eric Y Zhu, Li Qian, Ofer Levi
+  link:
+    url: https://www.osapublishing.org/abstract.cfm?uri=FiO-2020-FTh2C.5
+    display: Frontiers in Optics, FTh2C. 5
+  highlight: 2
+
+- title: "A Photonic crystal slab-based Ultrasonic Hydrophone"
+  authors: E. Y. Zhu, MC Charles, C Rewcastle, R Gad, L Qian, O Levi
+  link: 
+    url: https://ieeexplore.ieee.org/abstract/document/9167023/
+    display: 2020 Photonics North (PN), 1-1
+  highlight: 2
+
+- title: "Dispersion measurement via stimulated parametric process"
+  authors: A Riazi, C Chen, EY Zhu, AV Gladyshev, PG Kazansky, L Qian
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9166945/
+    display: 2020 Photonics North (PN), 1-1
+  highlight: 2
+
+- title: "Efficient experimental quantum fingerprinting with wavelength division multiplexing"
+  authors: Xiaoqing Zhong, Feihu Xu, Hoi-Kwong Lo, Li Qian
+  link:
+    url: https://arxiv.org/abs/2005.06049
+    display: arXiv preprint arXiv:2005.06049
+  highlight: 2
+
+- title: "Proof-of-principle experimental demonstration of twin-field quantum key distribution over asymmetric channels"
+  authors: Xiaoqing Zhong, Wenyuan Wang, Li Qian, Hoi-Kwong Lo
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9193818/
+    display: 2020 Conference on Lasers and Electro-Optics (CLEO), 1-2	
+  highlight: 2
+
+- title: "Entanglement Tuning via Biphoton Beating"
+  authors: Arash Riazi, Changjia Chen, Eric Y Zhu, AV Gladyshev, PG Kazansky, JE Sipe, Li Qian
+  link:
+    url: https://www.osapublishing.org/abstract.cfm?uri=cleo_qels-2020-FM2C.7
+    display: "CLEO: QELS_Fundamental Science, FM2C. 7"	
+  highlight: 2
+
+- title: "Sensitizing an all-optical ultrasound sensor with a polymer overlayer"
+  authors: Eric Y Zhu, Maria C Charles, Cory Rewcastle, Raanan Gad, Li Qian, Ofer Levi
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9193295/
+    display: 2020 Conference on Lasers and Electro-Optics (CLEO), 1-2	
+  highlight: 2
+
+- title: "Versatile Dispersion Measurement via a Reflective Nonlinear Interferometer"
+  authors: Arash Riazi, Changjia Chen, Eric Y Zhu, AV Gladyshev, PG Kazansky, JE Sipe, Li Qian
+  link:
+    url: https://www.osapublishing.org/abstract.cfm?uri=CLEO_SI-2020-SF2B.4
+    display: "CLEO: Science and Innovations, SF2B. 4"	
+  highlight: 2
+
+- title: "All-optical ultrasound sensing in photonic crystal slabs aided by PMMA"
+  authors: Eric Y Zhu, Maria C Charles, Cory Rewcastle, Raanan Gad, Li Qian, Ofer Levi
+  link:
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11240/1124012/All-optical-ultrasound-sensing-in-photonic-crystal-slabs-aided-by/10.1117/12.2545146.short
+    display: "Photons Plus Ultrasound: Imaging and Sensing 2020 11240, 1124012"	
+  highlight: 2
+
+- title: "PPSF fiber-based broadband polarization-entangled photon source"
+  authors: Li Qian, Changjia Chen, Arash Riazi, Eric Y Zhu
+  link:
+    url: https://patents.google.com/patent/US10620503B2/en
+    display: US Patent 10,620,503	
+  highlight: 2
+
+- title: "Dispersion measurement assisted by a stimulated parametric process"
+  authors: Arash Riazi, Changjia Chen, Eric Y Zhu, Alexey V Gladyshev, Peter G Kazansky, JE Sipe, Li Qian
+  link:
+    url: https://www.osapublishing.org/abstract.cfm?uri=ol-45-7-2034
+    display: Optics letters 45 (7), 2034-2037	
+  highlight: 2
+
+- title: "Recovering the full dimensionality of hyperentanglement in collinear photon pairs"
+  authors: Changjia Chen, Arash Riazi, Eric Y Zhu, Li Qian
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.101.013834
+    display: Optics letters 45 (7), 2034-2037	
+  highlight: 2
+
+- title: "Iteration Bayesian Reweighed Algorithm for Optical Carrier-Based Microwave Interferometry Sensing"
+  authors: Yuxiao Li, Ciming Zhou, Dian Fan, Sijing Liang, Li Qian
+  link:
+    url: https://www.mdpi.com/1424-8220/20/11/3079
+    display: Sensors 20 (11), 3079	
+  highlight: 2
